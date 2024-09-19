@@ -177,7 +177,7 @@ Recall that we can increment (`++`) and decrement (`--`) a number if it's
 assigned to a variable. Please follow along in the terminal using the `node` command.
 
 ```javascript
-let number = 5;
+`let number = 5;`
 
 number++; //=> 5... hmmmm
 
